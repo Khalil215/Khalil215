@@ -8,9 +8,9 @@ I'm a Software Engineer. I'm passionate about my Deen, Web engineering, Anime an
 
 - 😊 Pronouns: Mandem
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript and React. En route to becoming world class.
+- 🌱 Proficient in using ReactJs, NextJs and Typescript. En route to becoming world class.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+- 💼 Job interests: Front Engineer (Intern or Junior level).
 - 📫 You can contact me by emailing ibrahimhamman215@gmail.com.
 
 **LET'S GET IT!**
