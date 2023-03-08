@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-3B7EBF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/mwlite/in/ibrahim-hamman-23732125a)](https://www.linkedin.com/mwlite/in/ibrahim-hamman-23732125a)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-khalil215.vercel.app)](https://portfolio-khalil215.vercel.app)
 
-I'm a Software Engineer. I'm passionate about Web engineering and putting in the work.
+I'm a Software Engineer. I'm passionate about Web engineering, Anime, My Deen, Learning new technologies and Putting in the Work.
 
 **A little about me**:
 
