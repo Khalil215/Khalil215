@@ -1,6 +1,6 @@
 # Konichiwa 👋🏾
 # 💫 About Me:
-🔭 I’m a software engineer with a passion for building scalable and maintainable software solutions.<br>👯 I’m looking to collaborate on big challenging enterprise projects.<br>🤝 I’m looking for help with finding internships and entry-level opportunities.<br>🌱 I’m currently learning Backend Engineering<br>💬 Ask me about React, vue, typescript and anything frontend related<br>⚡ Fun fact : I am an alumnus of AltSchool Africa School of Software Engineering who loves trying out new technologies, enjoys his free time with anime and self growth
+🔭 I’m a software engineer with a passion for building scalable and maintainable software solutions.<br>👯 I’m looking to collaborate on big challenging enterprise projects.<br>🤝 I’m looking for help with finding opportunities.<br>🌱 I’m currently learning Backend Engineering<br>💬 Ask me about React, vue, typescript and anything frontend related<br>⚡ Fun fact : I am an alumnus of AltSchool Africa School of Software Engineering who loves trying out new technologies, enjoys his free time with anime and self growth
 
 [![Website Badge](https://img.shields.io/badge/-Portfolio-111827?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://portfolio-khalil215.vercel.app)](https://portfolio-khalil215.vercel.app)
 
